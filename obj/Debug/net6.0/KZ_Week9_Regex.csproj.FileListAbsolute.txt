@@ -1,0 +1,15 @@
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week9_Regex\bin\Debug\net6.0\KZ_Week9_Regex.exe
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week9_Regex\bin\Debug\net6.0\KZ_Week9_Regex.deps.json
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week9_Regex\bin\Debug\net6.0\KZ_Week9_Regex.runtimeconfig.json
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week9_Regex\bin\Debug\net6.0\KZ_Week9_Regex.dll
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week9_Regex\bin\Debug\net6.0\ref\KZ_Week9_Regex.dll
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week9_Regex\bin\Debug\net6.0\KZ_Week9_Regex.pdb
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week9_Regex\obj\Debug\net6.0\KZ_Week9_Regex.csproj.AssemblyReference.cache
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week9_Regex\obj\Debug\net6.0\KZ_Week9_Regex.GeneratedMSBuildEditorConfig.editorconfig
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week9_Regex\obj\Debug\net6.0\KZ_Week9_Regex.AssemblyInfoInputs.cache
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week9_Regex\obj\Debug\net6.0\KZ_Week9_Regex.AssemblyInfo.cs
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week9_Regex\obj\Debug\net6.0\KZ_Week9_Regex.csproj.CoreCompileInputs.cache
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week9_Regex\obj\Debug\net6.0\KZ_Week9_Regex.dll
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week9_Regex\obj\Debug\net6.0\ref\KZ_Week9_Regex.dll
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week9_Regex\obj\Debug\net6.0\KZ_Week9_Regex.pdb
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week9_Regex\obj\Debug\net6.0\KZ_Week9_Regex.genruntimeconfig.cache
